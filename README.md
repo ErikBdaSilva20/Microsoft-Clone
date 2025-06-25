@@ -1,12 +1,30 @@
-# React + Vite
+<h1 style="text-align: center;">🖥️ Microsoft Clone</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p style="text-align: center;">
+  Projeto desenvolvido com o objetivo de praticar <strong>React</strong> e <strong>Vite</strong>, recriando a <strong>página inicial</strong> do site da Microsoft. O foco principal foi treinar componentização e deploy com <strong>GitHub Pages</strong>. O projeto não possui rotas nem responsividade, sendo uma reprodução estática e funcional da interface principal.
+</p>
 
-Currently, two official plugins are available:
+<h2>🛠️ Tecnologias Utilizadas:</h2>
+<p style="text-align: center;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</p>
 
-## Expanding the ESLint configuration
+<h2>📋 O Que o Projeto Possui:</h2>
+<ul>
+  <li>✅ Carrossel funcional controlado com <strong>Boostrap</strong></li>
+  <li>✅ Animações e interações inspiradas no site original da Microsoft</li>
+  <li>✅ Estilização com <strong>styled-components</strong> para organizar os estilos</li>
+  <li>✅ Deploy realizado via <strong>GitHub Pages</strong>, com configuração de <code>vite.config.js</code> e <code>package.json</code></li>
+</ul>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h2>🌍 Links Importantes:</h2>
+<ul>
+  <li>🌐 <strong>Deploy do projeto:</strong> <a href="https://erikbdasilva20.github.io/Microsoft-Clone/" target="_blank" rel="noopener noreferrer">https://erikbdasilva20.github.io/Microsoft-Clone/</a></li>
+  <li>📁 <strong>Repositório:</strong> <a href="https://github.com/ErikBdaSilva20/Microsoft-Clone" target="_blank" rel="noopener noreferrer">https://github.com/ErikBdaSilva20/Microsoft-Clone</a></li>
+</ul>
